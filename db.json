@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Gabs",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 134,
+      "comment": "teste",
+      "date": "2022-12-14T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "gabvs",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 2112,
+      "comment": "1221",
+      "date": "2022-12-13T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "gabs",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 11,
+      "comment": "text",
+      "date": "2022-12-14T03:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
